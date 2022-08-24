@@ -1,0 +1,17 @@
+#text{
+    text-align: center;
+    top: 100px;
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+body{
+    background-color: rgb(241, 241, 123);
+}
+
+#link{
+    font-size: 35px;
+}

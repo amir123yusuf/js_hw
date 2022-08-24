@@ -1,0 +1,26 @@
+h1, #link{
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    font-size: 45px;
+    padding: 0;
+}
+body{
+    background-color: rgb(241, 241, 123);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ a:hover {
+    color: blue;
+    text-shadow: 5px 5px 5px rgb(240, 141, 141);
+}
+
+footer {
+    padding-top: 430px;
+    text-align: center;
+    text-decoration: none;
+}

@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(241, 241, 123);
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+  }
+
+#atributs{
+    font-size: 25px;
+}
+
+#consoleLog, #Alert, #Prompt{
+    color: blue;
+    text-shadow: 5px 5px 5px rgb(240, 141, 141);
+}
+
+#consoleLog, #Alert, #Prompt:hover{
+    color: blue;
+    text-shadow: 5px 5px 5px rgb(240, 141, 141);
+}
